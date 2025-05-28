@@ -1,1 +1,2 @@
-# Djoango_study
+# Djoango_stu
+
